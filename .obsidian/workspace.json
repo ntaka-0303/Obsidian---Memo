@@ -53,16 +53,32 @@
             "id": "8efe1ff93a6e6124",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "notes/Pasted image 20251211153009.png"
+                "file": "others/LayerX DSメンバーとの会食にて.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251211153009"
+              "icon": "lucide-file",
+              "title": "LayerX DSメンバーとの会食にて"
+            }
+          },
+          {
+            "id": "f108a601981b016d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CursorとClaudeCodeを使ってみて.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CursorとClaudeCodeを使ってみて"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Pasted image 20251211153009.png",
+                "file": "CursorとClaudeCodeを使ってみて.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20251211153009へのバックリンク"
+              "title": "CursorとClaudeCodeを使ってみてへのバックリンク"
             }
           },
           {
@@ -154,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Pasted image 20251211153009.png",
+                "file": "CursorとClaudeCodeを使ってみて.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pasted image 20251211153009からのアウトゴーイングリンク"
+              "title": "CursorとClaudeCodeを使ってみてからのアウトゴーイングリンク"
             }
           },
           {
@@ -197,20 +213,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Pasted image 20251211153009.png",
+                "file": "CursorとClaudeCodeを使ってみて.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20251211153009のアウトライン"
+              "title": "CursorとClaudeCodeを使ってみてのアウトライン"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,12 +242,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47311e9e9425b719",
+  "active": "f108a601981b016d",
   "lastOpenFiles": [
+    "others/LayerX DSメンバーとの会食にて.md",
+    "CursorとClaudeCodeを使ってみて.md",
     "notes/施策に対する意思決定.md",
     "notes/Pasted image 20251211153009.png",
     "notes/NotebookLMでのスライド生成Tips.md",
-    "others/LayerX DSメンバーとの会食にて.md",
     "無題のファイル.canvas",
     "books/AIエージェント 人類と協業する機会.md",
     "README.md",
