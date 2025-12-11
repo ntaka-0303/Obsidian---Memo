@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "others/CursorとClaudeCodeを使ってみて.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIエージェント 人類と協業する機会"
+              "title": "CursorとClaudeCodeを使ってみて"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "others/CursorとClaudeCodeを使ってみて.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AIエージェント 人類と協業する機会へのバックリンク"
+              "title": "CursorとClaudeCodeを使ってみてへのバックリンク"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "others/CursorとClaudeCodeを使ってみて.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "AIエージェント 人類と協業する機会からのアウトゴーイングリンク"
+              "title": "CursorとClaudeCodeを使ってみてからのアウトゴーイングリンク"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "others/CursorとClaudeCodeを使ってみて.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AIエージェント 人類と協業する機会のアウトライン"
+              "title": "CursorとClaudeCodeを使ってみてのアウトライン"
             }
           }
         ],
@@ -244,6 +244,7 @@
   },
   "active": "f108a601981b016d",
   "lastOpenFiles": [
+    "books/AIエージェント 人類と協業する機会.md",
     "others/CursorとClaudeCodeを使ってみて.md",
     "CursorとClaudeCodeを使ってみて.md",
     "others/LayerX DSメンバーとの会食にて.md",
@@ -251,7 +252,6 @@
     "notes/Pasted image 20251211153009.png",
     "notes/NotebookLMでのスライド生成Tips.md",
     "無題のファイル.canvas",
-    "books/AIエージェント 人類と協業する機会.md",
     "README.md",
     "others",
     "notes",
