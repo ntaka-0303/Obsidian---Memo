@@ -53,14 +53,12 @@
             "id": "8efe1ff93a6e6124",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "施策に対する意思決定.md",
-                "mode": "source",
-                "source": false
+                "file": "notes/Pasted image 20251211153009.png"
               },
-              "icon": "lucide-file",
-              "title": "施策に対する意思決定"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251211153009"
             }
           }
         ],
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "施策に対する意思決定.md",
+                "file": "notes/Pasted image 20251211153009.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "施策に対する意思決定へのバックリンク"
+              "title": "Pasted image 20251211153009へのバックリンク"
             }
           },
           {
@@ -156,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "施策に対する意思決定.md",
+                "file": "notes/Pasted image 20251211153009.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "施策に対する意思決定からのアウトゴーイングリンク"
+              "title": "Pasted image 20251211153009からのアウトゴーイングリンク"
             }
           },
           {
@@ -199,21 +197,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "施策に対する意思決定.md",
+                "file": "notes/Pasted image 20251211153009.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "施策に対する意思決定のアウトライン"
+              "title": "Pasted image 20251211153009のアウトライン"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8efe1ff93a6e6124",
+  "active": "47311e9e9425b719",
   "lastOpenFiles": [
-    "Pasted image 20251211153009.png",
+    "notes/施策に対する意思決定.md",
+    "notes/Pasted image 20251211153009.png",
     "notes/NotebookLMでのスライド生成Tips.md",
-    "施策に対する意思決定.md",
     "others/LayerX DSメンバーとの会食にて.md",
     "無題のファイル.canvas",
     "books/AIエージェント 人類と協業する機会.md",
