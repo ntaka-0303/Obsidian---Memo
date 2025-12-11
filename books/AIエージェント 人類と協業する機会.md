@@ -1,5 +1,6 @@
 https://www.amazon.co.jp/dp/4865944583
 
+#AIエージェント
 # SECIモデルとAIエージェントの役割
 
 ## 1. SECIモデルの概要

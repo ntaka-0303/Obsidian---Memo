@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "others/LayerX DSメンバーとの会食にて.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIエージェント 人類と協業する機会"
-            }
-          },
-          {
-            "id": "c31813e78f281d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIエージェント 人類と協業する機会"
+              "title": "LayerX DSメンバーとの会食にて"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "others/LayerX DSメンバーとの会食にて.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AIエージェント 人類と協業する機会へのバックリンク"
+              "title": "LayerX DSメンバーとの会食にてへのバックリンク"
             }
           },
           {
@@ -142,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "others/LayerX DSメンバーとの会食にて.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "AIエージェント 人類と協業する機会からのアウトゴーイングリンク"
+              "title": "LayerX DSメンバーとの会食にてからのアウトゴーイングリンク"
             }
           },
           {
@@ -185,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "others/LayerX DSメンバーとの会食にて.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AIエージェント 人類と協業する機会のアウトライン"
+              "title": "LayerX DSメンバーとの会食にてのアウトライン"
             }
           }
         ]
@@ -213,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c31813e78f281d00",
+  "active": "43925981538d7169",
   "lastOpenFiles": [
-    "others/LayerX DSメンバーとの会食にて.md",
+    "無題のファイル.canvas",
     "books/AIエージェント 人類と協業する機会.md",
+    "others/LayerX DSメンバーとの会食にて.md",
     "README.md",
     "others",
     "notes",
