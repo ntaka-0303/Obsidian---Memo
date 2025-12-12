@@ -3,7 +3,7 @@
   "operations": {
     "README.md": "modify",
     "books/マネジメント.md": "create",
-    "NotionAIの検索.md": "create"
+    "tweets/NotionAIの検索.md": "create"
   },
   "driveIdToPath": {
     "1KPPQ_4NR6m7k8xCowRyFF5GKabDhiHjn": "テスト.md",
