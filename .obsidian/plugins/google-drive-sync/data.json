@@ -2,7 +2,8 @@
   "refreshToken": "1//05QhyCnssPCD7CgYIARAAGAUSNwF-L9IrlG2sI16pYdj-hHbWaYnV4AFJuRh28ArYzFRrKnEjABx9ryECUxcB906pZi0h_Dq_bPk",
   "operations": {
     "README.md": "modify",
-    "books/マネジメント.md": "create"
+    "books/マネジメント.md": "create",
+    "NotionAIの検索.md": "create"
   },
   "driveIdToPath": {
     "1KPPQ_4NR6m7k8xCowRyFF5GKabDhiHjn": "テスト.md",
