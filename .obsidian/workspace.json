@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "マネジメントのアウトライン"
             }
+          },
+          {
+            "id": "dd28c483e15b87a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +192,11 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
       "google-drive-sync:Push to Google Drive": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "20b30dcbe2f167a8",
+  "active": "9b863e1abfd5e32e",
   "lastOpenFiles": [
     "README.md",
     "books/テスト.md",
