@@ -1,0 +1,22 @@
+{
+  "refreshToken": "1//05QhyCnssPCD7CgYIARAAGAUSNwF-L9IrlG2sI16pYdj-hHbWaYnV4AFJuRh28ArYzFRrKnEjABx9ryECUxcB906pZi0h_Dq_bPk",
+  "operations": {
+    "テスト.md": "modify"
+  },
+  "driveIdToPath": {
+    "1KPPQ_4NR6m7k8xCowRyFF5GKabDhiHjn": "テスト.md",
+    "1N92x-yojkcnrkH4gmnZyyKW5uk0BXgxC": ".obsidian",
+    "1pptJ7qGrQSkbY6qK5M4X35nN4WIfi_FQ": ".obsidian/plugins",
+    "1dCBLV4p2fhEVEAZY9cCFR_jZVqFpfclj": ".obsidian/plugins/google-drive-sync",
+    "1gJcmraQaIoQqh-SNEhJi33WPOnIWI5jC": ".obsidian/plugins/google-drive-sync/manifest.json",
+    "1jXZbPNfFqiATBxYQUslI3icDodHj-dN-": ".obsidian/appearance.json",
+    "1IjEFVmULVFiytsNcQl2PsZEPA0o6R70a": ".obsidian/plugins/google-drive-sync/main.js",
+    "1qdesWPC4hTJwopWkLP-DvcY7y67fuO1Z": ".obsidian/app.json",
+    "1jiHq8HI1O4M8c_B4LeztuuosV22MMPWj": ".obsidian/community-plugins.json",
+    "15v3cK58EV0RZgJfgOpX2hZWWPWV3pKBK": ".obsidian/plugins/google-drive-sync/data.json",
+    "1kJjFXG2ycyq7oDbpUUMRE0i_IGeK5EL7": ".obsidian/core-plugins.json",
+    "12ULsj61zPSokwkBtgt7e75bG-8etmvAc": ".obsidian/plugins/google-drive-sync/styles.css"
+  },
+  "lastSyncedAt": 1765528538555,
+  "changesToken": "26378"
+}

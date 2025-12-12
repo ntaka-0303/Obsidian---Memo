@@ -1,126 +1,41 @@
 {
   "main": {
-    "id": "053c72c8adde9c80",
+    "id": "7b0532a9c1e334de",
     "type": "split",
     "children": [
       {
-        "id": "9daa73e218d0225c",
+        "id": "f5432f0b960764f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7633a3f3e738c717",
+            "id": "9b863e1abfd5e32e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "books/テスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "43925981538d7169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "others/LayerX DSメンバーとの会食にて.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LayerX DSメンバーとの会食にて"
-            }
-          },
-          {
-            "id": "0f0804c0222ac7ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/NotebookLMでのスライド生成Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NotebookLMでのスライド生成Tips"
-            }
-          },
-          {
-            "id": "8efe1ff93a6e6124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "others/LayerX DSメンバーとの会食にて.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LayerX DSメンバーとの会食にて"
-            }
-          },
-          {
-            "id": "f108a601981b016d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "others/CursorとClaudeCodeを使ってみて.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CursorとClaudeCodeを使ってみて"
-            }
-          },
-          {
-            "id": "4a8ba441dd716aee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tweets/NotinAIの使い方.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NotinAIの使い方"
-            }
-          },
-          {
-            "id": "9884ff64a80e543d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIエージェント 人類と協業する機会"
+              "title": "テスト"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f743c731f7a7bba1",
+    "id": "f37a6e8b230a23dd",
     "type": "split",
     "children": [
       {
-        "id": "f9ef5bb9498cd5df",
+        "id": "0de25480b7e446fc",
         "type": "tabs",
         "children": [
           {
-            "id": "31a2dba14a602592",
+            "id": "20b30dcbe2f167a8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -133,7 +48,7 @@
             }
           },
           {
-            "id": "774302cb3ce3f1d9",
+            "id": "13f2cb4c98a1bf43",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -150,7 +65,7 @@
             }
           },
           {
-            "id": "dae0e5b9dc694fe0",
+            "id": "e421596ad082c948",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -166,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "1dc429a6099e78bf",
+    "id": "cd510826a17f0517",
     "type": "split",
     "children": [
       {
-        "id": "2415ca0e8bcc326f",
+        "id": "08957186099b11c2",
         "type": "tabs",
         "children": [
           {
-            "id": "47311e9e9425b719",
+            "id": "fe96ef2841ff2a08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "books/テスト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AIエージェント 人類と協業する機会へのバックリンク"
+              "title": "テストへのバックリンク"
             }
           },
           {
-            "id": "e677bec2e0ac3978",
+            "id": "e01643fd14c97743",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "books/テスト.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "AIエージェント 人類と協業する機会からのアウトゴーイングリンク"
+              "title": "テストからのアウトゴーイングリンク"
             }
           },
           {
-            "id": "dbffe93deb7f3ebe",
+            "id": "1eccd6a8e004b765",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -222,7 +137,7 @@
             }
           },
           {
-            "id": "2a40b9f2ab628153",
+            "id": "0da0f3a41a7cadd7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -236,22 +151,21 @@
             }
           },
           {
-            "id": "078fb0fdf4b08b79",
+            "id": "8df93540db5f8518",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/AIエージェント 人類と協業する機会.md",
+                "file": "books/テスト.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AIエージェント 人類と協業する機会のアウトライン"
+              "title": "テストのアウトライン"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,28 +181,14 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
+      "google-drive-sync:Push to Google Drive": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9884ff64a80e543d",
+  "active": "20b30dcbe2f167a8",
   "lastOpenFiles": [
-    "paper/Measuring Agents in Production.md",
-    "paper/Pasted image 20251211173859.png",
-    "blogs",
-    "tweets/NotinAIの使い方.md",
-    "paper",
-    "others/CursorとClaudeCodeを使ってみて.md",
-    "books/AIエージェント 人類と協業する機会.md",
-    "CursorとClaudeCodeを使ってみて.md",
-    "others/LayerX DSメンバーとの会食にて.md",
-    "notes/施策に対する意思決定.md",
-    "notes/Pasted image 20251211153009.png",
-    "notes/NotebookLMでのスライド生成Tips.md",
-    "無題のファイル.canvas",
-    "README.md",
-    "others",
-    "notes",
-    "tweets",
-    "books"
+    "テスト２つの.md",
+    "books/テスト.md",
+    "README.md"
   ]
 }
