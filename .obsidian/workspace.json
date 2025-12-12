@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/Measuring Agents in Production.md",
+                "file": "books/AIエージェント 人類と協業する機会.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Measuring Agents in Production"
+              "title": "AIエージェント 人類と協業する機会"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/Measuring Agents in Production.md",
+                "file": "books/AIエージェント 人類と協業する機会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Measuring Agents in Productionへのバックリンク"
+              "title": "AIエージェント 人類と協業する機会へのバックリンク"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/Measuring Agents in Production.md",
+                "file": "books/AIエージェント 人類と協業する機会.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Measuring Agents in Productionからのアウトゴーイングリンク"
+              "title": "AIエージェント 人類と協業する機会からのアウトゴーイングリンク"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/Measuring Agents in Production.md",
+                "file": "books/AIエージェント 人類と協業する機会.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Measuring Agents in Productionのアウトライン"
+              "title": "AIエージェント 人類と協業する機会のアウトライン"
             }
           }
         ],
@@ -272,10 +272,10 @@
   },
   "active": "9884ff64a80e543d",
   "lastOpenFiles": [
+    "paper/Measuring Agents in Production.md",
     "paper/Pasted image 20251211173859.png",
     "blogs",
     "tweets/NotinAIの使い方.md",
-    "paper/Measuring Agents in Production.md",
     "paper",
     "others/CursorとClaudeCodeを使ってみて.md",
     "books/AIエージェント 人類と協業する機会.md",
