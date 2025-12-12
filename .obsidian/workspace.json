@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/テスト.md",
+                "file": "books/マネジメント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テスト"
+              "title": "マネジメント"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/テスト.md",
+                "file": "books/マネジメント.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "テストへのバックリンク"
+              "title": "マネジメントへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/テスト.md",
+                "file": "books/マネジメント.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "テストからのアウトゴーイングリンク"
+              "title": "マネジメントからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/テスト.md",
+                "file": "books/マネジメント.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "テストのアウトライン"
+              "title": "マネジメントのアウトライン"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "20b30dcbe2f167a8",
   "lastOpenFiles": [
-    "テスト２つの.md",
+    "README.md",
     "books/テスト.md",
-    "README.md"
+    "books/マネジメント.md",
+    "テスト２つの.md"
   ]
 }

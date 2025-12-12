@@ -1,7 +1,8 @@
 {
   "refreshToken": "1//05QhyCnssPCD7CgYIARAAGAUSNwF-L9IrlG2sI16pYdj-hHbWaYnV4AFJuRh28ArYzFRrKnEjABx9ryECUxcB906pZi0h_Dq_bPk",
   "operations": {
-    "テスト.md": "modify"
+    "README.md": "modify",
+    "books/マネジメント.md": "create"
   },
   "driveIdToPath": {
     "1KPPQ_4NR6m7k8xCowRyFF5GKabDhiHjn": "テスト.md",
@@ -17,6 +18,6 @@
     "1kJjFXG2ycyq7oDbpUUMRE0i_IGeK5EL7": ".obsidian/core-plugins.json",
     "12ULsj61zPSokwkBtgt7e75bG-8etmvAc": ".obsidian/plugins/google-drive-sync/styles.css"
   },
-  "lastSyncedAt": 1765528538555,
-  "changesToken": "26378"
+  "lastSyncedAt": 1765528380104,
+  "changesToken": "26285"
 }
