@@ -3,7 +3,8 @@
   "operations": {
     "README.md": "modify",
     "books/マネジメント.md": "create",
-    "tweets/NotionAIの検索.md": "create"
+    "tweets/NotionAIの検索.md": "create",
+    "日本の大手企業とAI企業の提携事例.md": "create"
   },
   "driveIdToPath": {
     "1KPPQ_4NR6m7k8xCowRyFF5GKabDhiHjn": "テスト.md",
