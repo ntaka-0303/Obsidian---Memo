@@ -4,7 +4,15 @@
     "README.md": "modify",
     "books/マネジメント.md": "create",
     "tweets/NotionAIの検索.md": "create",
-    "日本の大手企業とAI企業の提携事例.md": "create"
+    "books/日本の大手企業とAI企業の提携事例.md": "create",
+    "tweets/NotinAIの使い方.md": "delete",
+    "tweets/NotinAIのコマンド.md": "create",
+    "others/LayerX DSメンバーとの会食にて.md": "modify",
+    "notes/施策に対する意思決定.md": "modify",
+    "books/AIエージェント 人類と協業する機会.md": "modify",
+    "notes/NotebookLMでのスライド生成Tips.md": "modify",
+    "others/CursorとClaudeCodeを使ってみて.md": "modify",
+    "paper/Measuring Agents in Production.md": "modify"
   },
   "driveIdToPath": {
     "1KPPQ_4NR6m7k8xCowRyFF5GKabDhiHjn": "テスト.md",
