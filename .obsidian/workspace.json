@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Measuring Agents in Production"
             }
+          },
+          {
+            "id": "1f4d36db898e42dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent2 Automated RL Agent Generation Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent2 Automated RL Agent Generation Framework"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/Measuring Agents in Production.md",
+                "file": "Agent2 Automated RL Agent Generation Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Measuring Agents in Productionへのバックリンク"
+              "title": "Agent2 Automated RL Agent Generation Frameworkへのバックリンク"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/Measuring Agents in Production.md",
+                "file": "Agent2 Automated RL Agent Generation Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Measuring Agents in Productionからのアウトゴーイングリンク"
+              "title": "Agent2 Automated RL Agent Generation Frameworkからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/Measuring Agents in Production.md",
+                "file": "Agent2 Automated RL Agent Generation Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Measuring Agents in Productionのアウトライン"
+              "title": "Agent2 Automated RL Agent Generation Frameworkのアウトライン"
             }
           },
           {
@@ -197,10 +212,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "9b863e1abfd5e32e",
+  "active": "1f4d36db898e42dc",
   "lastOpenFiles": [
-    "paper/Pasted image 20251211173859.png",
     "paper/Measuring Agents in Production.md",
+    "Agent2 Automated RL Agent Generation Framework.md",
+    "paper/Pasted image 20251211173859.png",
     "others/LayerX DSメンバーとの会食にて.md",
     "others/CursorとClaudeCodeを使ってみて.md",
     "notes/施策に対する意思決定.md",
