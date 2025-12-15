@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepResearch/Claude Code Skills機能の完全ガイド.md",
+                "file": "DeepResearch/LLMエージェントのワークフローと自動化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code Skills機能の完全ガイド"
+              "title": "LLMエージェントのワークフローと自動化"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepResearch/Claude Code Skills機能の完全ガイド.md",
+                "file": "DeepResearch/LLMエージェントのワークフローと自動化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Claude Code Skills機能の完全ガイドへのバックリンク"
+              "title": "LLMエージェントのワークフローと自動化へのバックリンク"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepResearch/Claude Code Skills機能の完全ガイド.md",
+                "file": "DeepResearch/LLMエージェントのワークフローと自動化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Claude Code Skills機能の完全ガイドからのアウトゴーイングリンク"
+              "title": "LLMエージェントのワークフローと自動化からのアウトゴーイングリンク"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepResearch/Claude Code Skills機能の完全ガイド.md",
+                "file": "DeepResearch/LLMエージェントのワークフローと自動化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Claude Code Skills機能の完全ガイドのアウトライン"
+              "title": "LLMエージェントのワークフローと自動化のアウトライン"
             }
           },
           {
@@ -240,10 +240,10 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "20b30dcbe2f167a8",
+  "active": "93ebe375a91008e4",
   "lastOpenFiles": [
-    "paper/Measuring Agents in Production.md",
     "DeepResearch/Claude Code Skills機能の完全ガイド.md",
+    "paper/Measuring Agents in Production.md",
     "DeepResearch",
     "paper/Agent2 Automated RL Agent Generation Framework.md",
     "books/日本の大手企業とAI企業の提携事例.md",
