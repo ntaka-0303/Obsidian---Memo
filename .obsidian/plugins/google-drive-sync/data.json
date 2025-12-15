@@ -15,7 +15,9 @@
     "paper/Measuring Agents in Production.md": "modify",
     "paper/Agent2 Automated RL Agent Generation Framework.md": "create",
     "paper/Pasted image 20251215100810.png": "create",
-    "others/LLMエージェントのワークフローと自動化.md": "create"
+    "DeepResearch": "create",
+    "DeepResearch/LLMエージェントのワークフローと自動化.md": "create",
+    "DeepResearch/Claude Code Skills機能の完全ガイド.md": "create"
   },
   "driveIdToPath": {
     "1KPPQ_4NR6m7k8xCowRyFF5GKabDhiHjn": "テスト.md",
