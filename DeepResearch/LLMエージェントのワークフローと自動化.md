@@ -4,7 +4,7 @@
     
 - **エージェントの主要構成要素**として、**エージェントコア**（意思決定の中枢）、**メモリモジュール**（対話履歴や内部ログの短期・長期記憶）、**ツール**（外部データ取得や計算のための機能）、**プランニングモジュール**（複雑な問題をサブタスクに分解し計画立案）の4つが挙げられています[developer.nvidia.com](https://developer.nvidia.com/blog/introduction-to-llm-agents/#:~:text=An%20agent%20is%20made%20up,more%20details%20on%20these%20shortly)[developer.nvidia.com](https://developer.nvidia.com/blog/introduction-to-llm-agents/#:~:text=Memory%20modules%20play%20a%20critical,as%20interactions%20with%20a%20user)。これらが連携することで、エージェントは複雑な問い合わせを適切に分解し、外部知識や計算能力を活用して解答を導きます。
     
-- **企業向けの応用例**も紹介されており、「社内データに対する質疑応答」（いわゆる_Talk to Your Data_型エージェント）、複数エージェントの協調動作による**エージェントの群集（swarm）**, レコメンデーションやユーザ体験設計支援, 文書生成に特化したAI執筆支援, マルチモーダル入力（画像や音声）に対応するエージェントなどが例示されています[developer.nvidia.com](https://developer.nvidia.com/blog/introduction-to-llm-agents/#:~:text=,can%20process%20various%20input%20types)。例えば金融分析では、財務報告から自動で分析レポートを作成するエージェントなどが考えられます。
+- **企業向けの応用例**も紹介されており、「社内データに対する質疑応答」（いわゆる_Talk to Your Data_型エージェント）、複数エージェントの協調動作による**エージェントの群集（swarm）**, レコメンデーションやユーザ体験設計支援, 文書生成に特化したAI執筆支援, マルチモーダル入力（画像や音声）に対応するエージェントなどが例示されています[developer.nvidia.com](https://developer.nvidia.com/blog/introduction-to-llm-agents/#:~:text=,can%20process%20various%20input%20types)。例えば金融分析では、財務報告から自動で分析Tレポートを作成するエージェントなどが考えられます。
     
 - 初期の代表例として**AutoGPT**や**BabyAGI**といったプロジェクトが挙げられ、ほとんど人手を介さずに複雑な課題を解決できる「真のエージェント」の登場として言及されています[developer.nvidia.com](https://developer.nvidia.com/blog/introduction-to-llm-agents/#:~:text=In%20short%2C%20agents%20are%20a,the%20means%20to%20execute%20tasks)。これらにより、LLMエージェントは推論・計画・実行能力を組み合わせた新たなAIシステム概念として注目されました。
     
