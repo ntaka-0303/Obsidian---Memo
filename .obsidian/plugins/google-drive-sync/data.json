@@ -1,24 +1,7 @@
 {
   "refreshToken": "1//05QhyCnssPCD7CgYIARAAGAUSNwF-L9IrlG2sI16pYdj-hHbWaYnV4AFJuRh28ArYzFRrKnEjABx9ryECUxcB906pZi0h_Dq_bPk",
   "operations": {
-    "README.md": "modify",
-    "books/マネジメント.md": "create",
-    "tweets/NotionAIの検索.md": "create",
-    "books/日本の大手企業とAI企業の提携事例.md": "create",
-    "tweets/NotinAIの使い方.md": "delete",
-    "tweets/NotinAIのコマンド.md": "create",
-    "others/LayerX DSメンバーとの会食にて.md": "modify",
-    "notes/施策に対する意思決定.md": "modify",
-    "books/AIエージェント 人類と協業する機会.md": "modify",
-    "notes/NotebookLMでのスライド生成Tips.md": "modify",
-    "others/CursorとClaudeCodeを使ってみて.md": "modify",
-    "paper/Measuring Agents in Production.md": "modify",
-    "paper/Agent2 Automated RL Agent Generation Framework.md": "create",
-    "paper/Pasted image 20251215100810.png": "create",
-    "DeepResearch": "create",
-    "DeepResearch/LLMエージェントのワークフローと自動化.md": "create",
-    "DeepResearch/Claude Code Skills機能の完全ガイド.md": "create",
-    "メガバンクにおけるコーポレートファイナンス部門の全体像.md": "create"
+    "paper/2025-07-01_inference-time-scaling-and-collective-intelligence-for-front.md": "create"
   },
   "driveIdToPath": {
     "1KPPQ_4NR6m7k8xCowRyFF5GKabDhiHjn": "テスト.md",
@@ -32,8 +15,11 @@
     "1jiHq8HI1O4M8c_B4LeztuuosV22MMPWj": ".obsidian/community-plugins.json",
     "15v3cK58EV0RZgJfgOpX2hZWWPWV3pKBK": ".obsidian/plugins/google-drive-sync/data.json",
     "1kJjFXG2ycyq7oDbpUUMRE0i_IGeK5EL7": ".obsidian/core-plugins.json",
-    "12ULsj61zPSokwkBtgt7e75bG-8etmvAc": ".obsidian/plugins/google-drive-sync/styles.css"
+    "12ULsj61zPSokwkBtgt7e75bG-8etmvAc": ".obsidian/plugins/google-drive-sync/styles.css",
+    "12pRPXYJrtCafzR0LlB9NNVR5PcnysEm4": "マネジメント.md",
+    "1Hs4C3Fm73I3VjojnKRKYTP-Oh8xP8d2v": "NotionAIの検索.md",
+    "17QtHGyzLijlgbUWM0AJbtaTU3_DTQNcx": "日本の大手企業とAI企業の提携事例.md"
   },
-  "lastSyncedAt": 1765528380104,
-  "changesToken": "26285"
+  "lastSyncedAt": 1765852050689,
+  "changesToken": "28741"
 }
