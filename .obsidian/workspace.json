@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "LLMエージェントのワークフローと自動化"
             }
+          },
+          {
+            "id": "67eb3868ba69779b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "メガバンクにおけるコーポレートファイナンス部門の全体像.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "メガバンクにおけるコーポレートファイナンス部門の全体像"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepResearch/LLMエージェントのワークフローと自動化.md",
+                "file": "メガバンクにおけるコーポレートファイナンス部門の全体像.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "LLMエージェントのワークフローと自動化へのバックリンク"
+              "title": "メガバンクにおけるコーポレートファイナンス部門の全体像へのバックリンク"
             }
           },
           {
@@ -156,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepResearch/LLMエージェントのワークフローと自動化.md",
+                "file": "メガバンクにおけるコーポレートファイナンス部門の全体像.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "LLMエージェントのワークフローと自動化からのアウトゴーイングリンク"
+              "title": "メガバンクにおけるコーポレートファイナンス部門の全体像からのアウトゴーイングリンク"
             }
           },
           {
@@ -199,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepResearch/LLMエージェントのワークフローと自動化.md",
+                "file": "メガバンクにおけるコーポレートファイナンス部門の全体像.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LLMエージェントのワークフローと自動化のアウトライン"
+              "title": "メガバンクにおけるコーポレートファイナンス部門の全体像のアウトライン"
             }
           },
           {
@@ -240,14 +254,15 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "93ebe375a91008e4",
+  "active": "67eb3868ba69779b",
   "lastOpenFiles": [
+    "DeepResearch/LLMエージェントのワークフローと自動化.md",
+    "メガバンクにおけるコーポレートファイナンス部門の全体像.md",
     "DeepResearch/Claude Code Skills機能の完全ガイド.md",
     "paper/Measuring Agents in Production.md",
     "DeepResearch",
     "paper/Agent2 Automated RL Agent Generation Framework.md",
     "books/日本の大手企業とAI企業の提携事例.md",
-    "DeepResearch/LLMエージェントのワークフローと自動化.md",
     "others/CursorとClaudeCodeを使ってみて.md",
     "paper/Pasted image 20251215100810.png",
     "paper/Pasted image 20251211173859.png",
