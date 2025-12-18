@@ -1,3 +1,4 @@
+#AiWorkforce 
 # 事業戦略
 
 Speaker：中村
