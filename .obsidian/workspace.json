@@ -237,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,13 +248,14 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
-      "google-drive-sync:Push to Google Drive": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "67eb3868ba69779b",
+  "active": "20b30dcbe2f167a8",
   "lastOpenFiles": [
+    "paper/2025-12-16_unknown.md",
+    "others/Ai Workforceお披露目会.md",
     "メガバンクにおけるコーポレートファイナンス部門の全体像.md",
     "paper/2025-07-01_inference-time-scaling-and-collective-intelligence-for-front.md",
     "DeepResearch/LLMエージェントのワークフローと自動化.md",
