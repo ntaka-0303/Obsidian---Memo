@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/NotebookLMでのスライド生成Tips.md",
+                "file": "paper,blog/2025-07-01_inference-time-scaling-and-collective-intelligence-for-front.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NotebookLMでのスライド生成Tips"
+              "title": "2025-07-01_inference-time-scaling-and-collective-intelligence-for-front"
+            }
+          },
+          {
+            "id": "64d98c91d92a2a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent Skillsについて.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent Skillsについて"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,25 +265,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67eb3868ba69779b",
+  "active": "64d98c91d92a2a20",
   "lastOpenFiles": [
+    "DeepResearch/メガバンクにおけるコーポレートファイナンス部門の全体像.md",
+    "Agent Skillsについて.md",
+    "paper,blog/2025-07-01_inference-time-scaling-and-collective-intelligence-for-front.md",
+    "notes/NotebookLMでのスライド生成Tips.md",
     "others/Ai Workforceお披露目会.md",
     "paper/2025-12-16_unknown.md",
-    "paper/2025-07-01_inference-time-scaling-and-collective-intelligence-for-front.md",
-    "メガバンクにおけるコーポレートファイナンス部門の全体像.md",
     "DeepResearch/LLMエージェントのワークフローと自動化.md",
     "DeepResearch/Claude Code Skills機能の完全ガイド.md",
-    "paper/Measuring Agents in Production.md",
+    "paper,blog/Measuring Agents in Production.md",
     "DeepResearch",
-    "paper/Agent2 Automated RL Agent Generation Framework.md",
+    "paper,blog/Agent2 Automated RL Agent Generation Framework.md",
     "books/日本の大手企業とAI企業の提携事例.md",
     "others/CursorとClaudeCodeを使ってみて.md",
-    "paper/Pasted image 20251215100810.png",
-    "paper/Pasted image 20251211173859.png",
+    "paper,blog/Pasted image 20251215100810.png",
+    "paper,blog/Pasted image 20251211173859.png",
     "others/LayerX DSメンバーとの会食にて.md",
     "notes/施策に対する意思決定.md",
     "notes/Pasted image 20251211153009.png",
-    "notes/NotebookLMでのスライド生成Tips.md",
     "books/マネジメント.md",
     "books/AIエージェント 人類と協業する機会.md",
     "tweets/NotinAIのコマンド.md",
