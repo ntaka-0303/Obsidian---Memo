@@ -248,8 +248,7 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "67eb3868ba69779b",
