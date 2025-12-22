@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agent Skillsについて.md",
+                "file": "Claude Agent Skillsについて.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent Skillsについて"
+              "title": "Claude Agent Skillsについて"
             }
           }
         ],
@@ -268,7 +268,7 @@
   "active": "64d98c91d92a2a20",
   "lastOpenFiles": [
     "DeepResearch/メガバンクにおけるコーポレートファイナンス部門の全体像.md",
-    "Agent Skillsについて.md",
+    "Claude Agent Skillsについて.md",
     "paper,blog/2025-07-01_inference-time-scaling-and-collective-intelligence-for-front.md",
     "notes/NotebookLMでのスライド生成Tips.md",
     "others/Ai Workforceお披露目会.md",
