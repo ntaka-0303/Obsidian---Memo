@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIエージェント 人類と協業する機会.md",
+                "file": "NotebookLMでのスライド生成Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIエージェント 人類と協業する機会"
+              "title": "NotebookLMでのスライド生成Tips"
             }
           }
         ],
@@ -265,11 +265,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20b30dcbe2f167a8",
+  "active": "64d98c91d92a2a20",
   "lastOpenFiles": [
+    "Ai Workforceお披露目会.md",
+    "AIエージェント 人類と協業する機会.md",
     "Claude Agent Skillsについて.md",
     "NotebookLMでのスライド生成Tips.md",
-    "Ai Workforceお披露目会.md",
     "2025-07-01_inference-time-scaling-and-collective-intelligence-for-front.md",
     "メガバンクにおけるコーポレートファイナンス部門の全体像.md",
     "paper/2025-12-16_unknown.md",
@@ -286,7 +287,6 @@
     "施策に対する意思決定.md",
     "Pasted image 20251211153009.png",
     "マネジメント.md",
-    "AIエージェント 人類と協業する機会.md",
     "tweets/NotinAIのコマンド.md",
     "tweets/NotionAIの検索.md",
     "NotionAIの検索.md",
