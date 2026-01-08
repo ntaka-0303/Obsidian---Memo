@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Agent Skillsについて.md",
+                "file": "DeepResearch/Claude Agent Skillsについて.md",
                 "mode": "source",
                 "source": false
               },
@@ -265,10 +265,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64d98c91d92a2a20",
+  "active": "20b30dcbe2f167a8",
   "lastOpenFiles": [
     "DeepResearch/メガバンクにおけるコーポレートファイナンス部門の全体像.md",
-    "Claude Agent Skillsについて.md",
+    "DeepResearch/Claude Agent Skillsについて.md",
     "paper,blog/2025-07-01_inference-time-scaling-and-collective-intelligence-for-front.md",
     "notes/NotebookLMでのスライド生成Tips.md",
     "others/Ai Workforceお披露目会.md",
